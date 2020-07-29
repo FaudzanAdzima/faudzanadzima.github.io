@@ -1,0 +1,85 @@
+#logo {
+    display: block;
+   height: 150px;
+   margin: 0 auto;
+}
+.tagline {
+    text-align: center;
+    color: lightgray;
+}
+#alamat{
+    margin-top: -10px;
+}
+header{
+    background-image: url(im.jpg);
+    padding: 10px;
+    border-radius: 20px;
+}
+.main-box {
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    background-image: url(im.jpg);
+    background-size: cover;
+}
+#adidas{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+
+}
+#nike{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+
+}
+#reebok{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+
+}
+#puma{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+
+}
+#vans{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+
+}
+#league{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+
+}
+.shoes-box{
+    margin: 0 auto;
+    max-width: 700px;
+    min-height: 300px;
+}
+#image{
+    float: right;
+    height: 250px;
+    width: 250px
+}
+
+.order-body{
+    /* background-image: url(im.jpg); */
+    padding: 10px;
+    margin-left: 30px;
+}
+.body-thanks {
+    text-align: center;
+}
